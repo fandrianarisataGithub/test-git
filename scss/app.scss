@@ -1,0 +1,15 @@
+$mena : red;
+$volomboasary : orange;
+#kankana {
+    display: grid;
+    grid-template: repeat(2);
+    .vitsika {
+        width: 50px;
+        background-color: $mena;
+        box-sizing: 0px 0px 3px;
+        height: 50px;
+        &:hover {
+            background-color: $volomboasary;
+        }
+    }
+}

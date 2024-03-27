@@ -1,0 +1,21 @@
+#kankana {
+  display: grid;
+  grid-template: repeat(2);
+}
+#kankana .vitsika {
+  width: 50px;
+  background-color: red;
+  box-sizing: 0px 0px 3px;
+  height: 50px;
+}
+#kankana .vitsika:hover {
+  background-color: orange;
+}
+
+/*# sourceMappingURL=mai
+
+
+
+
+
+*/
